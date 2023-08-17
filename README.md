@@ -14,4 +14,4 @@ It contains 3 folders:<br>
 **train:** Images for training<br>
 **test:** Images for testing<br>
 **valid:** Images for validation<br>
-Each of these folders contains subfolders for each dog breed
+Each of these folders contains subfolders for each image class
