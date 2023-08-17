@@ -1,6 +1,6 @@
-# Dog Breed Identifier
+# Image classifier
 
-Simple project to identify dog breeds using a CNN model
+Simple project to classify images using ImageNet
 
 ## Tools used:
 **Language:** Python<br>
